@@ -49,19 +49,21 @@ for the binary operations file.
 # Compilation
 
 Compilation is done through the makefile provided, with the following operations
-`make clean`
-`make all`
-`./frequecy_table <flags> `
-`./decode <flags>`
-`./copyrecords <flags>`
+
+- `make all`
+- `make clean`
+- `./frequecy_table <flags> `
+- `./decode <flags>`
+- `./copyrecords <flags>`
 
 # File structure
 
 Everything is provided go ahead and try this program. For easiest use drag the test files to the src folder
 so that they are easily acessible.
-`/Src : Has all the source code, headers and makefiles`
-`/Demo: In depth look at the flags`
-`/test: Has all the test files`
+
+- `/Src : Has all the source code, headers and makefiles`
+- `/Demo: In depth look at the flags`
+- `/test: Has all the test files`
 
 records file is to be used for input in `copyrecords.c`
 text files input ( with encoded message ) are to be used in any of the files
