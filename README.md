@@ -44,7 +44,7 @@ Below are the first subset of flags that may be used with their details.
 Below is the second subset of flags that may be used for `copyrecords.c` specifically
 for the binary operations file.
 
-![second flags](Demo/commandsImage2.jpg)
+![second flags](Demo/commandImage2.jpg)
 
 # Compilation
 
