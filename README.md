@@ -25,7 +25,7 @@ The frequencies are determined by the following common frequencies :
 This file computes frequencies with the first file, then uses a ![Chi-Squared test](https://en.wikipedia.org/wiki/Chi-squared_test) for a given shift "guess". This examines all possible shifts ( 0 - 25) and determines a shift which
 should decode the message.
 
-## copyrecords.c
+### copyrecords.c
 
 This file will copy records to a new file ( in binary format ), assuming ; we have a file of records in binary mode `which is already provided`. They are copied decoded, but these operations are varied provided the use of the flags.
 
